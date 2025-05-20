@@ -1,6 +1,6 @@
 {
   "name": "capacitor-ionic-plugin-wechat",
-  "version": "7.0.1",
+  "version": "7.0.3",
   "description": "wechat sdk wrapper with capacitor ,support ios and android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorWechatSdk.podspec"
+    "CapacitorIonicPluginWechat.podspec"
   ],
   "author": "Tom",
   "license": "MIT",
