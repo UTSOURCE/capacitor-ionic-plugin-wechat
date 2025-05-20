@@ -4,6 +4,8 @@
 
 ### 【参数配置】
 
+支持capacitor7
+
 1、修改 capacitor.config.ts 增加微信相关配置参数
 
 ```ts
