@@ -49,12 +49,12 @@ const config: CapacitorConfig = {
   },
   "webcredentials": {
     "apps": [
-      "Z8XVAM5547.com.jjzx.ecapp"
+      "Z8XVAMXXXX.com.xxxxx.xxxx"
     ]
   },
   "appclips": {
     "apps": [
-      "Z8XVAM5547.com.jjzx.ecapp"
+      "Z8XVAMXXXX.com.xxxxx.xxxx"
     ]
   }
 }
